@@ -2,7 +2,6 @@
 - 🔭 I’m currently a researcher in computer vision, signal processing, and multimedia communication.
 - 🌱 Check out my ORCid for my other research and funding https://orcid.org/0009-0001-8819-262X
 - ⚡️ I am an Electrical and Computer Engineer, so I tend to work closer to hardware
-- 📫 How to reach me: For any professional questions you can reach out to me at <mailto:coreymarrs@ieee.org>
 <!--
 **CoreyM8/CoreyM8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
